@@ -27,5 +27,5 @@
 #### I tried to remove non-essential input data and reduce the number of neurons of this model.
 
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary
 ### The firsts iterations of this deep learning neural network model weren't that successful regarding performance. Verying the number of neurons will affect the overall performance on the model, at the final iterations, the model demonstrated to be optimized utilizing less but more relevant input data, and reaching a bit higher performance.
