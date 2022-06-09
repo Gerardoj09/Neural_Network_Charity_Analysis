@@ -9,9 +9,11 @@
 ### Data Preprocessing
 #### What variable(s) are considered the target(s) for your model?
 #### The variable considered as a target in this model is the APPLICATION_TYPE variable.
+![image](https://user-images.githubusercontent.com/88596274/172753544-12d3e340-dea2-4b17-be23-9f0c9980b583.png)
 
 #### What variable(s) are considered to be the features for your model?
 #### The variable considered as features in this model is the CLASSIFICATION and the IS_SUCCESSFUL variables.
+![image](https://user-images.githubusercontent.com/88596274/172753602-c77623c3-cb71-4d82-81b3-bfe66a35a70f.png)
 
 #### What variable(s) are neither targets nor features, and should be removed from the input data?
 #### Besides the NaN variables, the ones related with the income and the special considerations variables are not features nor targets, and then, they have to be removed from the input data for this model.
@@ -29,3 +31,4 @@
 
 ## Summary
 ### The firsts iterations of this deep learning neural network model weren't that successful regarding performance. Verying the number of neurons will affect the overall performance on the model, at the final iterations, the model demonstrated to be optimized utilizing less but more relevant input data, and reaching a bit higher performance.
+![image](https://user-images.githubusercontent.com/88596274/172753734-425febb7-608c-4d74-b025-68d38909ed4a.png)
